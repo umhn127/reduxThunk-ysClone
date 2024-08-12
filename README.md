@@ -8,4 +8,4 @@ Aasenkron işlemlerle uğraşmak istediğimizde, redux thunk devereye girer. Thu
 
 ## Gif
 
-![](ymk_spt_cln_g.gif)
+<img src="/public/ymk_spt_cln_g.gif"/>
