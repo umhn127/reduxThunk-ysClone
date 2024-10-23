@@ -1,10 +1,14 @@
+## Thunk Sepeti
+
+Küçük bir e-ticaret sitesini andıran bu proje, kullanıcıların ürünleri adetleriyle birlikte sepete eklemelerine, sepetteki ürünleri ise arttırma, azaltma veya çıkarma işlemlerine olanak sağlıyor.
+
 # Redux Thunk
 
-Reduxt hunk, redux kullanılan projelerde asenkron işlemleri kolaylaştırmak bileşen ieçrisndeki karışılığı azaltmak ve complex yapıyı bileşnin dışarısna taşımamıza olanak sağlar
+Redux thunk, redux kullanılan projelerde asenkron işlemleri kolaylaştırmak, bileşen içerisndeki karışıklığı azaltmak ve complex yapıyı bileşenin dışarısına taşımamıza olanak sağlar.
 
-Redux temel yapısı a ksiyonların senkron olması üzerine kuruludur. Yani bir eylem dispatch ile tetiklendiğinde bekleme süresi olmadan reducer'a ulaşmalı
+Redux temel yapısı aksiyonların senkron olması üzerine kuruludur. Yani bir eylem dispatch ile tetiklendiğinde bekleme süresi olmadan reducer'a ulaşmalı.
 
-Aasenkron işlemlerle uğraşmak istediğimizde, redux thunk devereye girer. Thunk , action oluşturan fonksiyonların basit bir nesne döndürmesi yerine fonksiyon döndrümesine izin verir. Bu sayede aksiyon oluşturan bu fonksiyonların içerisnde api istekleri atılabilir
+Asenkron işlemlerle uğraşmak istediğimizde, redux thunk devreye girer. Thunk , action oluşturan fonksiyonların basit bir nesne döndürmesi yerine fonksiyon döndrümesine izin verir. Bu sayede aksiyon oluşturan bu fonksiyonların içerisinde api istekleri atılabilir.
 
 ## Gif
 
